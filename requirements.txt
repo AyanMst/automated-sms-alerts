@@ -1,0 +1,3 @@
+twilio
+google-generativeai
+python-dotenv
